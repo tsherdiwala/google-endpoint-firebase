@@ -1,0 +1,4 @@
+.vscode
+lib
+*openapi.json
+*.pyc
